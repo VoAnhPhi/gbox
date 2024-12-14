@@ -1,0 +1,340 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "projectName": "project 01",
+      "client": "Cif",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/project-1.jpg",
+      "link": "#"
+    },
+    {
+      "id": "2",
+      "projectName": "project 02",
+      "client": "Pepsi",
+      "photographer": "Eric Huynh",
+      "director": "Peter Zech",
+      "image": "img/Home/project-2.jpg",
+      "link": "#"
+    },
+    {
+      "id": "3",
+      "projectName": "project 03",
+      "client": "Pepsi",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/project-3.jpg",
+      "link": "#"
+    },
+    {
+      "id": "4",
+      "projectName": "project 04",
+      "client": "Cif",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/project-4.jpg",
+      "link": "#"
+    },
+    {
+      "id": "5",
+      "projectName": "project 05",
+      "client": "Pepsi",
+      "photographer": "Eric Huynh",
+      "director": "Peter Zech",
+      "image": "img/Home/project-5.jpg",
+      "link": "#"
+    },
+    {
+      "id": "6",
+      "projectName": "project 06",
+      "client": "Pepsi",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/project-6.jpg",
+      "link": "#"
+    },
+    {
+      "id": "7",
+      "projectName": "project 07",
+      "client": "Cif",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/project-7.jpg",
+      "link": "#"
+    },
+    {
+      "id": "8",
+      "projectName": "project 08",
+      "client": "Pepsi",
+      "photographer": "Eric Huynh",
+      "director": "Peter Zech",
+      "image": "img/Home/project-8.jpg",
+      "link": "#"
+    },
+    {
+      "id": "9",
+      "projectName": "project 09",
+      "client": "Pepsi",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/project-9.jpg",
+      "link": "#"
+    }
+  ],
+  "film": [
+    {
+      "id": "1",
+      "projectName": "project 01",
+      "client": "Cif",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/Untitled-6.jpg",
+      "link": "#"
+    }
+  ],
+  "image": [
+    {
+      "id": "1",
+      "projectName": "project 01",
+      "client": "Cif",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/project-1.jpg",
+      "link": "#"
+    },
+    {
+      "id": "2",
+      "projectName": "project 02",
+      "client": "Pepsi",
+      "photographer": "Eric Huynh",
+      "director": "Peter Zech",
+      "image": "img/Home/project-2.jpg",
+      "link": "#"
+    },
+    {
+      "id": "3",
+      "projectName": "project 03",
+      "client": "Pepsi",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/project-3.jpg",
+      "link": "#"
+    },
+    {
+      "id": "4",
+      "projectName": "project 04",
+      "client": "Cif",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/project-4.jpg",
+      "link": "#"
+    },
+    {
+      "id": "5",
+      "projectName": "project 05",
+      "client": "Pepsi",
+      "photographer": "Eric Huynh",
+      "director": "Peter Zech",
+      "image": "img/Home/project-5.jpg",
+      "link": "#"
+    },
+    {
+      "id": "6",
+      "projectName": "project 06",
+      "client": "Pepsi",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/project-6.jpg",
+      "link": "#"
+    },
+    {
+      "id": "7",
+      "projectName": "project 07",
+      "client": "Cif",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/project-7.jpg",
+      "link": "#"
+    },
+    {
+      "id": "8",
+      "projectName": "project 08",
+      "client": "Pepsi",
+      "photographer": "Eric Huynh",
+      "director": "Peter Zech",
+      "image": "img/Home/project-8.jpg",
+      "link": "#"
+    },
+    {
+      "id": "9",
+      "projectName": "project 09",
+      "client": "Pepsi",
+      "photographer": "Eric Huynh",
+      "image": "img/Home/project-9.jpg",
+      "link": "#"
+    }
+  ],
+  "studios": [
+    {
+      "id": "1",
+      "image": "./img/Sutdio/img.jpg",
+      "number": "01",
+      "dimensions": "87ft × 92ft × 31ft (26.52m × 28.04m × 9.45m)",
+      "detailsLink": "",
+      "specs": [
+        "U-shaped infinity cove (Green color)",
+        "Drive-in access",
+        "Remote controlled floating ceiling (6mWx12mL)",
+        "Air-conditioned production office",
+        "Power: 3 × 400A"
+      ],
+      "floorplan": "img/StudioDetail/floorplan-1.jpg",
+      "images": [
+        "img/StudioDetail/img-1.jpg",
+        "img/StudioDetail/img-2.jpg"
+      ],
+      "price": "12.500.000 vnd"
+    },
+    {
+      "id": "2",
+      "image": "./img/Sutdio/img-2.jpg",
+      "number": "02",
+      "dimensions": "39ft × 42ft × 21ft (26.52m × 22.04m × 5.45m)",
+      "detailsLink": "",
+      "specs": [
+        "U-shaped infinity cove (Green color)",
+        "Drive-in access",
+        "Remote controlled floating ceiling (6mWx12mL)",
+        "Air-conditioned production office",
+        "Power: 3 × 400A"
+      ],
+      "floorplan": "img/StudioDetail/floorplan-1.jpg",
+      "images": [
+        "img/StudioDetail/img-1.jpg",
+        "img/StudioDetail/img-2.jpg"
+      ],
+      "price": "7.500.000 vnd"
+    },
+    {
+      "id": "3",
+      "image": "./img/Sutdio/img-3.jpg",
+      "number": "03",
+      "dimensions": "117ft × 119ft × 91ft (50.52m × 22.04m × 59.45m)",
+      "detailsLink": "",
+      "specs": [
+        "U-shaped infinity cove (Green color)",
+        "Drive-in access",
+        "Remote controlled floating ceiling (6mWx12mL)",
+        "Air-conditioned production office",
+        "Power: 3 × 400A"
+      ],
+      "floorplan": "img/StudioDetail/floorplan-1.jpg",
+      "images": [
+        "img/StudioDetail/img-1.jpg",
+        "img/StudioDetail/img-2.jpg"
+      ],
+      "price": "22.500.000 vnd"
+    },
+    {
+      "id": "4",
+      "image": "./img/Sutdio/img-4.jpg",
+      "number": "04",
+      "dimensions": "87ft × 92ft × 31ft (26.52m × 28.04m × 9.45m)",
+      "detailsLink": "",
+      "specs": [
+        "U-shaped infinity cove (Green color)",
+        "Drive-in access",
+        "Remote controlled floating ceiling (6mWx12mL)",
+        "Air-conditioned production office",
+        "Power: 3 × 400A"
+      ],
+      "floorplan": "img/StudioDetail/floorplan-1.jpg",
+      "images": [
+        "img/StudioDetail/img-1.jpg",
+        "img/StudioDetail/img-2.jpg"
+      ],
+      "price": "9.500.000 vnd"
+    },
+    {
+      "id": "5",
+      "image": "./img/Sutdio/img-5.jpg",
+      "number": "05",
+      "dimensions": "87ft × 92ft × 31ft (26.52m × 28.04m × 9.45m)",
+      "detailsLink": "",
+      "specs": [
+        "U-shaped infinity cove (Green color)",
+        "Drive-in access",
+        "Remote controlled floating ceiling (6mWx12mL)",
+        "Air-conditioned production office",
+        "Power: 3 × 400A"
+      ],
+      "floorplan": "img/StudioDetail/floorplan-1.jpg",
+      "images": [
+        "img/StudioDetail/img-1.jpg",
+        "img/StudioDetail/img-2.jpg"
+      ],
+      "price": "10.500.000 vnd"
+    },
+    {
+      "id": "6",
+      "image": "./img/Sutdio/img-6.jpg",
+      "number": "06",
+      "dimensions": "87ft × 92ft × 31ft (26.52m × 28.04m × 9.45m)",
+      "detailsLink": "",
+      "specs": [
+        "U-shaped infinity cove (Green color)",
+        "Drive-in access",
+        "Remote controlled floating ceiling (6mWx12mL)",
+        "Air-conditioned production office",
+        "Power: 3 × 400A"
+      ],
+      "floorplan": "img/StudioDetail/floorplan-1.jpg",
+      "images": [
+        "img/StudioDetail/img-1.jpg",
+        "img/StudioDetail/img-2.jpg"
+      ],
+      "price": "5.500.000 vnd"
+    }
+  ],
+  "users": [
+    {
+      "id": "ef2b",
+      "username": "Anh Phi",
+      "email": "123@gmail.com",
+      "password": "12071207"
+    },
+    {
+      "id": "1201",
+      "username": "thay thơ",
+      "email": "thaytho@gmail.com",
+      "password": "111111"
+    }
+  ],
+  "orders": [
+    {
+      "id": "e19e",
+      "userId": "1201",
+      "username": "thay thơ",
+      "email": "thaytho@gmail.com",
+      "cart": [
+        {
+          "id": "1",
+          "name": "Studio 01",
+          "price": 12500000,
+          "image": "./img/Sutdio/img.jpg"
+        }
+      ],
+      "date": "2024-11-30T08:39:07.565Z"
+    },
+    {
+      "id": "5dd6",
+      "userId": "1201",
+      "username": "thay thơ",
+      "email": "thaytho@gmail.com",
+      "cart": [
+        {
+          "id": "2",
+          "name": "Studio 02",
+          "price": 7500000,
+          "image": "./img/Sutdio/img-2.jpg"
+        },
+        {
+          "id": "6",
+          "name": "Studio 06",
+          "price": 5500000,
+          "image": "./img/Sutdio/img-6.jpg"
+        }
+      ],
+      "date": "2024-11-30T08:41:03.095Z"
+    }
+  ]
+}
