@@ -1,1 +1,27 @@
-voanhphi
+## GBOX Studio
+### Giới thiệu
+GBOX Studio là một nền tảng đặt lịch chụp ảnh hiện đại, sử dụng ES6 và cơ sở dữ liệu JSON để quản lý dịch vụ studio một cách linh hoạt. Hệ thống hỗ trợ giao diện thân thiện với người dùng và khả năng quản lý mạnh mẽ cho admin.
+
+### Công nghệ sử dụng
+- **Frontend & Backend:** JavaScript (ES6)
+- **Database:** db.json (JSON-based database)
+- **Framework:** Express.js (cho API backend)
+- **Authentication:** Token-based authentication
+
+### Chức năng chính
+#### Người dùng (Client Side)
+- Xem danh sách dịch vụ chụp ảnh
+- Đặt lịch hẹn trực tuyến
+- Quản lý lịch sử đặt lịch
+- Thanh toán trực tuyến
+- Đăng ký/Đăng nhập tài khoản
+
+#### Quản trị viên (Admin Panel)
+- Quản lý dịch vụ
+- Quản lý lịch hẹn
+- Quản lý khách hàng
+- Xác nhận thanh toán
+- Cấu hình hệ thống
+
+🔥 **Booking Studio & GBOX Studio** - Giải pháp đặt lịch chụp ảnh tiện lợi!
+
